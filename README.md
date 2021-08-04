@@ -27,3 +27,48 @@ Not only a music bot!. <b>A Beast Music Bot</b>.High quality Discord music bot w
   
 
 <h2>Commands Info :--</h2>
+  
+`dev`
+Dev of the bot.
+  
+`drop`
+Drop The Song From Queue.
+  
+`help`
+Get all commands name and description.
+  
+`invite`
+invite the bot in your server.
+  
+`jump`
+Jump to any song you like.
+  
+`loop`
+Loop Your Queue and have fun.
+  
+`np`
+Get the name of current playing song.
+  
+`pause`
+Pause the cureent playing Song.
+  
+`play`
+Play the song and feel the music.
+  
+`queue`
+Get all the song name which are in queue.
+  
+`resume`
+Resume the Cureent Playing Song.
+  
+`skip`
+Skip the song or shift yourself to next song.
+  
+`stats`
+Get the detailed information of bot.
+  
+`stop`
+Stop the music and take rest ;)
+  
+`volume`
+Manage the volume of the song.
