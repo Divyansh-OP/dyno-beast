@@ -1,7 +1,7 @@
 
 <div align = "center">
   
-<img src="https://cdn.discordapp.com/attachments/870662973088235540/870663109604442132/images.jpeg" alt="Dyno Beast">
+<img src="https://cdn.discordapp.com/attachments/872388989104058408/872389131379040266/Dyno_Beast_1-without-bg.png" alt="Dyno Beast">
   
 <div align="left">
 <h1>About</h1>
