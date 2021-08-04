@@ -3,6 +3,7 @@
   
 <img src="https://cdn.discordapp.com/attachments/872388989104058408/872389131379040266/Dyno_Beast_1-without-bg.png" alt="Dyno Beast">
 <img src="https://cdn.discordapp.com/attachments/872388989104058408/872389138526142474/Dyno_Beast_2-removebg-preview.png" alt="Dyno Beast 2">
+<img src="https://cdn.discordapp.com/attachments/872388989104058408/872389144515596288/Dyno_Beast_3-without-bg.png" alt="Dyno Beast 3">
   
 <div align="left">
 <h1>About</h1>
