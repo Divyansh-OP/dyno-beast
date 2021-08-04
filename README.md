@@ -11,7 +11,7 @@ Not only a music bot!. <b>A Beast Music Bot</b>.High quality Discord music bot w
  
   
 <div align="left">
-<h2> BOTS </h2>
+<h2> More Bots! </h2>
 <div align="center">
   
   
